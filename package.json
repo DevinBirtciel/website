@@ -1,0 +1,26 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "A practice website for working with React and Redux",
+  "main": "index.js",
+  "dependencies": {
+    "nodejs": "0.0.0",
+    "react": "^16.13.1",
+    "react-redux": "^7.2.1",
+    "redux": "^4.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevinBirtciel/website.git"
+  },
+  "author": "Bearington",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevinBirtciel/website/issues"
+  },
+  "homepage": "https://github.com/DevinBirtciel/website#readme"
+}
